@@ -1,0 +1,20 @@
+{
+  "jd_union": {
+    "app_key": "你的AppKey",
+    "secret_key": "你的SecretKey",
+    "site_id": "你的推广位ID",
+    "union_id": "你的联盟ID"
+  },
+  "github": {
+    "username": "你的GitHub用户名",
+    "repo": "jd-pcs",
+    "pages_url": "https://xxx.github.io/jd-pcs/"
+  },
+  "push": {
+    "schedule_time": "08:30",
+    "max_items": 10,
+    "min_price": 10,
+    "max_price": 100,
+    "price_upper_limit": 500
+  }
+}
